@@ -1,0 +1,3 @@
+namaSaya = 'Anita'
+
+print (namaSaya)
